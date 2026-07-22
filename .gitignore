@@ -1,0 +1,23 @@
+# Gradle & Build
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+
+# Android Local & CMake
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Key & Keystore
+*.keystore
+*.jks
+release.keystore
+
+# Temporary & OS Files
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
