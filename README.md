@@ -1,6 +1,8 @@
 # XiangQi (象棋) - 高性能 Android 原生象棋
 
-一款基于 Android C++ 原生开发的高性能中国象棋应用。项目采用 OpenGL ES 3.0 进行极致优化的渲染，并内嵌强大的“皮卡鱼 (Pikafish)” UCI 引擎（支持 NNUE 神经网络），为您提供极具挑战的 AI 对弈体验。
+<img src="screenshot.jpg" width="300" align="right" />
+
+一款基于 Android C++ 原生开发的高性能中国象棋应用...
 
 ## ✨ 核心特性
 
